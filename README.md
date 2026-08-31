@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Yashmin Qureshi 👋</h1>
 
-<!--
-**yashminqureshi02/yashminqureshi02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  Beginner Developer • Data Analysis Learner • Building projects with purpose
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="https://github.com/yashminqureshi02?tab=repositories">Projects</a> •
+  <a href="https://github.com/yashminqureshi02?tab=stars">Learning journey</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## ✨ My Space on GitHub
+
+I am building practical projects while learning Python, data structures and algorithms, Excel data analysis, and web development.
+
+> “Small projects, consistent learning, meaningful growth.”
+
+## 🚀 Currently Building
+
+- 📊 **IPL 2025 Excel Dashboard** — team and player performance analysis using Excel formulas and charts
+- 🐍 **DSA with Python** — strengthening problem-solving skills
+- 💻 Beginner-friendly software and web projects
+
+## 🧰 Learning Toolkit
+
+`Python` • `Excel` • `Data Analysis` • `DSA` • `JavaScript` • `GitHub`
+
+## 🌟 Featured Projects
+
+| Project | What it shows |
+|---|---|
+| [IPL 2025 Excel Dashboard](https://github.com/yashminqureshi02/ipl-2025-excel-dashboard) | Data analysis, formulas, and dashboard design |
+| [File Management System](https://github.com/yashminqureshi02/File-Management-System) | Practical programming skills |
+| [Number Guessing Game](https://github.com/yashminqureshi02/Number-Guessing-game) | Programming fundamentals |
+| [DSA with Python](https://github.com/yashminqureshi02/dsa-with-python) | Problem-solving practice |
+
+## 🎯 2026 Goals
+
+- Build and document meaningful projects
+- Improve Python and DSA skills
+- Create polished data-analysis dashboards
+- Learn through consistent contributions
+
+## 🤝 Let’s Connect
+
+Feel free to explore my projects, share feedback, or connect for learning and collaboration.
