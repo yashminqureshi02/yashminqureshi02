@@ -1,93 +1,102 @@
-<h1 align="center">Hi 👋, I'm Yashmin Qureshi</h1>
+# Hi 👋, I'm Yashmin Qureshi
 
-<p align="center">
-  <strong>CSE (Data Science) Student • Python Developer • Data Analytics Learner</strong>
-</p>
+### CSE (Data Science) Student | Python Developer | Data Analytics Learner
 
-<p align="center">
-  Building practical projects, solving problems, and learning something new every day.
-</p>
+I am a Computer Science student specializing in Data Science, interested in
+Python, Data Analytics, SQL, Problem Solving and building practical projects.
+
+I enjoy learning new technologies, solving problems and turning ideas into
+useful projects.
 
 ---
 
-## 🚀 About Me
+## 👩‍💻 About Me
 
-🎓 B.Tech CSE — Data Science  
-💻 Interested in Python, Data Analytics & Problem Solving  
-📊 Learning to turn data into meaningful insights  
-🧠 Strengthening Data Structures & Algorithms  
-🌱 Currently building projects and improving my development skills
+- 🎓 B.Tech CSE — Data Science
+- 🐍 Interested in Python & Problem Solving
+- 📊 Learning Data Analytics & Data Science
+- 💻 Practicing Data Structures & Algorithms
+- 🚀 Building practical projects
+- 🌱 Continuously improving my development skills
 
 ---
 
 ## 🛠️ Tech Stack
 
-Languages
+### Languages
 - Python
 - C++
 - SQL
 - JavaScript
 
-Data & Analytics
-- Excel
+### Data & Analytics
 - Pandas
 - NumPy
 - Matplotlib
+- Excel
 
-Tools
+### Tools
 - Git
 - GitHub
 - VS Code
 
 ---
 
-## 📌 Featured Projects
+## 📂 Featured Projects
 
-| Project | Focus |
-|---|---|
-| 📊 IPL 2025 Excel Dashboard | Data Analysis & Visualization |
-| 🗂️ File Management System | Python & File Handling |
-| 🎯 Number Guessing Game | Python & Logic Building |
-| 🧠 DSA with Python | Data Structures & Problem Solving |
+### 📊 IPL 2025 Excel Dashboard
+Interactive Excel dashboard for IPL team and player analysis.
 
----
+Skills: Excel | Data Analysis | Dashboard
 
-## 📚 Currently Learning
+### 📁 File Management System
+Python-based file management system using pathlib and shutil.
 
-- Advanced Python
-- SQL & Data Analysis
-- Data Structures & Algorithms
-- Machine Learning
-- Git & GitHub
+Skills: Python | File Handling | Automation
+
+### 💻 DSA with Python
+A collection of Python problems solved while practicing Data Structures
+and Algorithms.
+
+Skills: Python | DSA | Problem Solving
 
 ---
 
 ## 🎯 2026 Goals
 
-- 🚀 Build meaningful real-world projects
-- 📊 Create polished data-analysis dashboards
-- 🧠 Improve DSA & problem-solving skills
-- 💻 Strengthen Python development
-- 🌱 Contribute consistently on GitHub
+- Build meaningful real-world projects
+- Strengthen Data Analytics skills
+- Improve DSA and problem-solving
+- Strengthen Python development
+- Learn Machine Learning
+- Contribute consistently on GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Data Structures & Algorithms
+- Advanced Python
+- Data Analytics
+- Machine Learning
+- SQL
 
 ---
 
 ## 💡 My Learning Philosophy
 
-> Learn → Build → Break → Fix → Improve
+> Learn → Build → Improve
 
-Small projects. Consistent learning. Meaningful growth.
+Small projects + consistent learning = meaningful growth.
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always open to learning, collaboration, feedback, and interesting projects.
+I'm open to learning opportunities, collaboration and interesting projects.
 
-⭐ Explore my repositories and follow my journey!
+⭐ Feel free to explore my repositories and follow my journey!
 
 ---
 
-<p align="center">
-  <i>Code • Analyze • Learn • Build • Grow</i>
-</p>
+### 🚀 Code • Analyze • Learn • Build
