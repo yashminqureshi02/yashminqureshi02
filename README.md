@@ -1,48 +1,93 @@
-<h1 align="center">Hi, I'm Yashmin Qureshi 👋</h1>
+<h1 align="center">Hi 👋, I'm Yashmin Qureshi</h1>
 
 <p align="center">
-  Beginner Developer • Data Analysis Learner • Building projects with purpose
+  <strong>CSE (Data Science) Student • Python Developer • Data Analytics Learner</strong>
 </p>
 
 <p align="center">
-  <a href="https://github.com/yashminqureshi02?tab=repositories">Projects</a> •
-  <a href="https://github.com/yashminqureshi02?tab=stars">Learning journey</a>
+  Building practical projects, solving problems, and learning something new every day.
 </p>
 
 ---
 
-## ✨ My Space on GitHub
+## 🚀 About Me
 
-I am building practical projects while learning Python, data structures and algorithms, Excel data analysis, and web development.
+🎓 B.Tech CSE — Data Science  
+💻 Interested in Python, Data Analytics & Problem Solving  
+📊 Learning to turn data into meaningful insights  
+🧠 Strengthening Data Structures & Algorithms  
+🌱 Currently building projects and improving my development skills
 
-> “Small projects, consistent learning, meaningful growth.”
+---
 
-## 🚀 Currently Building
+## 🛠️ Tech Stack
 
-- 📊 **IPL 2025 Excel Dashboard** — team and player performance analysis using Excel formulas and charts
-- 🐍 **DSA with Python** — strengthening problem-solving skills
-- 💻 Beginner-friendly software and web projects
+Languages
+- Python
+- C++
+- SQL
+- JavaScript
 
-## 🧰 Learning Toolkit
+Data & Analytics
+- Excel
+- Pandas
+- NumPy
+- Matplotlib
 
-`Python` • `Excel` • `Data Analysis` • `DSA` • `JavaScript` • `GitHub`
+Tools
+- Git
+- GitHub
+- VS Code
 
-## 🌟 Featured Projects
+---
 
-| Project | What it shows |
+## 📌 Featured Projects
+
+| Project | Focus |
 |---|---|
-| [IPL 2025 Excel Dashboard](https://github.com/yashminqureshi02/ipl-2025-excel-dashboard) | Data analysis, formulas, and dashboard design |
-| [File Management System](https://github.com/yashminqureshi02/File-Management-System) | Practical programming skills |
-| [Number Guessing Game](https://github.com/yashminqureshi02/Number-Guessing-game) | Programming fundamentals |
-| [DSA with Python](https://github.com/yashminqureshi02/dsa-with-python) | Problem-solving practice |
+| 📊 IPL 2025 Excel Dashboard | Data Analysis & Visualization |
+| 🗂️ File Management System | Python & File Handling |
+| 🎯 Number Guessing Game | Python & Logic Building |
+| 🧠 DSA with Python | Data Structures & Problem Solving |
+
+---
+
+## 📚 Currently Learning
+
+- Advanced Python
+- SQL & Data Analysis
+- Data Structures & Algorithms
+- Machine Learning
+- Git & GitHub
+
+---
 
 ## 🎯 2026 Goals
 
-- Build and document meaningful projects
-- Improve Python and DSA skills
-- Create polished data-analysis dashboards
-- Learn through consistent contributions
+- 🚀 Build meaningful real-world projects
+- 📊 Create polished data-analysis dashboards
+- 🧠 Improve DSA & problem-solving skills
+- 💻 Strengthen Python development
+- 🌱 Contribute consistently on GitHub
 
-## 🤝 Let’s Connect
+---
 
-Feel free to explore my projects, share feedback, or connect for learning and collaboration.
+## 💡 My Learning Philosophy
+
+> Learn → Build → Break → Fix → Improve
+
+Small projects. Consistent learning. Meaningful growth.
+
+---
+
+## 🤝 Let's Connect
+
+I'm always open to learning, collaboration, feedback, and interesting projects.
+
+⭐ Explore my repositories and follow my journey!
+
+---
+
+<p align="center">
+  <i>Code • Analyze • Learn • Build • Grow</i>
+</p>
